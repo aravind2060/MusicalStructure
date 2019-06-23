@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+    >
+   <ImageView
+       android:id="@+id/image_of_album"
+       android:layout_width="155dp"
+       android:layout_height="155dp"
+       android:src="@drawable/ic_launcher_background"
+       />
+
+        <TextView
+            android:layout_below="@id/image_of_album"
+        android:id="@+id/tv_name_of_album"
+        android:layout_height="wrap_content"
+       android:layout_width="wrap_content"
+        android:text="Telugu Retro Hits"
+        android:layout_marginTop="10dp"
+         android:textSize="18sp"
+        android:layout_centerHorizontal="true"
+            android:layout_marginRight="3dp"
+            />
+
+        <ImageView
+            android:layout_below="@id/image_of_album"
+            android:id="@+id/image_pop_menu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_options_image"
+            android:layout_marginTop="8dp"
+            android:paddingLeft="9dp"
+            android:layout_toRightOf="@id/tv_name_of_album"
+            android:layout_alignParentEnd="true"
+            />
+    <TextView
+        android:id="@+id/tv_no_of_songs"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_name_of_album"
+        android:layout_centerHorizontal="true"
+        android:textSize="15sp"
+        android:layout_marginTop="2dp"
+        />
+
+</RelativeLayout>

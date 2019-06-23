@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">MusicalStructure</string>
+
+    <string-array name="Bahubali_songs">
+         <item>Mamatala Talli</item>
+         <item>Pacha Bottasi</item>
+         <item>Jeva Nadhi</item>
+        <item>Monohari</item>
+        <item>Dhivara</item>
+        <item>Nippula Swasa Ga</item>
+        <item>Dheevera</item>
+     </string-array>
+    <string-array name="Bahubali_duration">
+        <item>7:40</item>
+        <item>6:30</item>
+        <item>2:20</item>
+        <item>6:89</item>
+        <item>8:55</item>
+        <item>5:44</item>
+        <item>3:22</item>
+    </string-array>
+    <string-array name="Robo_songs">
+        <item>Neelo Valpu</item>
+        <item>Harima Harima</item>
+        <item>Boom Boom Robo da</item>
+        <item>Inumulo O Hrudayam</item>
+        <item>O Maramanishi</item>
+        <item>Killimanjaro Bhala</item>
+    </string-array>
+    <string-array name="Robo_duration">
+        <item>8:45</item>
+        <item>9:12</item>
+        <item>5:20</item>
+        <item>3:02</item>
+        <item>6:22</item>
+        <item>3:44</item>
+    </string-array>
+    <string-array name="geeta_govindham_songs">
+        <item>Inkem Inkem Inkem Kaavaale</item>
+        <item>Kanureppala Kaalam</item>
+        <item>What the Life</item>
+        <item>Yenti Yenti</item>
+        <item>Vachindamma</item>
+    </string-array>
+    <string-array name="geeta_govindham_duration">
+        <item>8:20</item>
+        <item>9:23</item>
+        <item>6:20</item>
+        <item>5:22</item>
+        <item>3:22</item>
+    </string-array>
+    <string-array name="Arjun_reddy_songs">
+        <item>Dhooram</item>
+        <item>Mari Mari</item>
+        <item>Telisiney Na Nuvvey</item>
+        <item>Emitemitemo</item>
+        <item>Madhurame</item>
+        <item>Gundelonaa</item>
+        <item>Oopiri Aaguthunnadey</item>
+    </string-array>
+    <string-array name="Arjun_reddy_duration">
+        <item>2:12</item>
+        <item>3:56</item>
+        <item>5:02</item>
+        <item>8:12</item>
+        <item>9:02</item>
+        <item>2:49</item>
+        <item>6:12</item>
+    </string-array>
+    <string-array name="Spyder_songs">
+        <item>Ciciliya ciciliya</item>
+        <item>Spyder on mission</item>
+        <item>Achcham Telugandham</item>
+        <item>Akkada Vunnavadu</item>
+        <item>Haali Haali</item>
+    </string-array>
+    <string-array name="Spyder_duration">
+        <item>8:11</item>
+        <item>2:15</item>
+        <item>5:48</item>
+        <item>7:45</item>
+        <item>8:22</item>
+    </string-array>
+    <string-array name="na_peru_surya_songs">
+        <item>Ee Sainika</item>
+        <item>Kannanunni</item>
+        <item>Avesham Vithani</item>
+        <item>Beautiful Life</item>
+        <item>Jeevitham Puzhayay</item>
+        <item>Lover also Fighter also</item>
+    </string-array>
+    <string-array name="na_peru_surya_duration">
+        <item>4:23</item>
+        <item>8:23</item>
+        <item>8:14</item>
+        <item>3:23</item>
+        <item>1:21</item>
+        <item>3:19</item>
+    </string-array>
+</resources>
